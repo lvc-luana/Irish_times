@@ -1,5 +1,5 @@
 # Irish_times
-# Exploratory Analysis of the Irish Times Headlines
+## Exploratory Analysis of the Irish Times Headlines
 
 ## Introduction
 This dataset is a collection of over 1.61 million headlines posted by the Irish Times over a period of 25 years. With categories ranging from business and sports to culture, lifestyle, and opinion, this dataset offers a comprehensive overview of the happenings in Europe. The articles are dated from 1996-01-01 to 2021-06-30 and are categorized based on their headline and publication date. The dataset also includes a bonus set of observational data from Nigeria, spanning 15 months. This dataset offers researchers and data enthusiasts a valuable resource to explore and analyze trends, sentiments, and patterns in news reporting over an extended period.
